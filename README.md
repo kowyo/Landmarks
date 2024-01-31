@@ -2,5 +2,4 @@
 
  An app for discovering and sharing the places you love.
 
-<center><img src="https://github.com/xiln7/Landmarks/assets/110339237/7413eacf-d068-48ae-8f70-c7484ec3dd1b" alt="IMG_1498" style="zoom:15%;" />
-
+![IMG_1499](https://github.com/xiln7/Landmarks/assets/110339237/659666db-40b9-4aac-926c-5dc1735f084c)
